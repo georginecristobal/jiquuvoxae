@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oaxohgahn.kirilan.world/sitemap.xml
